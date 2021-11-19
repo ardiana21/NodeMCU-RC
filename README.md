@@ -32,7 +32,8 @@ This repository contains code to control an RC car over WiFi using an NodeMCU wi
 	### Remote Wiring
 		
 ## Security
-	For Security reason, make sure you change this 2 lines of codes in both NodeMCU for WiFi Name and Password:
+	For Security reason, 
+	make sure you change this 2 lines of codes in both NodeMCU for WiFi Name and Password:
 	```
 	const char* ssid = "SSID"; //Enter your wifi network SSID
 	const char* password = "PASSWORD"; //Enter your wifi network password
